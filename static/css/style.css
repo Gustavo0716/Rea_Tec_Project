@@ -125,24 +125,24 @@ p {
 }
 
 .header .title{
-    color: #101010;
+    color: cyan;
     margin-top: 1cm;
 }
 
 .header p{
-    color: #101010;
+    color: white;
     font-size: 20px;
     width: auto;
 }
 
 .sau .title{
-    color: white;
+    color: blueviolet;
     margin-top: 1.5cm;
 }
 
 .box-container .box {
     height: 13rem;
-    width: 17rem;
+    width: 20rem;
     background: #101010;
     text-align: center;
     border-radius: 1rem;
@@ -159,7 +159,7 @@ p {
     color: #fff;
     background: #9c27b0;
     font-size: 2rem;
-    margin: 1rem 0;
+    margin: .5rem 0;
 
 }
 
@@ -186,7 +186,7 @@ p {
 }
 
 .price {
-    background: gray;
+    background: rgb(143, 40, 134);
     color: #101010;
 }
 
